@@ -3,9 +3,9 @@ NeoDatis
 
 ODB (Object Database) ODBMS (Object Database manager system) for java
 
-No oficial repository for NeoDatis http://neodatis.wikidot.com/ 1.9.x branch
+No oficial repository for NeoDatis http://neodatis.wikidot.com/start 1.9.x branch
 
-NeoDatis ODB is a very simple Object Database that currently runs on the Java, .Net, Google Android, Groovy and Scala
+NeoDatis ODB/ODBMS is a very simple Object Database that currently runs on the Java, .Net, Google Android, Groovy and Scala
 
 To avoid Impedance mismatch overhead between Object and Relational worlds, give a try to Neodatis ODB. NeoDatis ODB is a new generation Object Database: a real native and transparent persistence layer for Java, .Net and Mono.
 
@@ -15,9 +15,7 @@ Using NeoDatis ODB as your persistence layer will let you focus on your business
 
 Sample code
 
-
-//---------------------------------
-
+```
 // Create the instance be stored
 
 Sport sport = new Sport("volley-ball");
@@ -45,7 +43,7 @@ Objects<Player> players = odb.getObjects(Player.class);
 // Close ODB
 odb.close();
 
-//---------------------------------
+```
 
 More samples on https://github.com/sirlordt/NeoDatis-Examples
 

@@ -15,6 +15,7 @@ Using NeoDatis ODB as your persistence layer will let you focus on your business
 
 Sample code
 
+
 //---------------------------------
 // Create the instance be stored
 

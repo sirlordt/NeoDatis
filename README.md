@@ -14,21 +14,27 @@ Using NeoDatis ODB as your persistence layer will let you focus on your business
 
 
 // Create the instance be stored
+
 // Sport sport = new Sport("volley-ball");
  
 // Open the database
+
 // ODB odb = ODBFactory.open("test.neodatis");
  
 // Store the object
+
 // odb.store(sport);
  
 // Close ODB
+
 // odb.close();
 
 // Open the database
+
 // ODB odb = ODBFactory.open("test.neodatis");
  
 // Retrieve objects using Generics
+
 // Objects<Player> players = odb.getObjects(Player.class);
  
 // Close ODB

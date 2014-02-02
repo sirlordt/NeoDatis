@@ -15,7 +15,7 @@ Using NeoDatis ODB as your persistence layer will let you focus on your business
 
 // Create the instance be stored
 
-// Sport sport = new Sport("volley-ball");
+Sport sport = new Sport("volley-ball");
  
 // Open the database
 

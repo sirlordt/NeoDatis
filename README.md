@@ -47,6 +47,6 @@ odb.close();
 
 //---------------------------------
 
-More samples on NeoDatis-Samples
+More samples on https://github.com/sirlordt/NeoDatis-Examples
 
 Excelent project

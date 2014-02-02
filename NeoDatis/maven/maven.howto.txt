@@ -1,0 +1,20 @@
+We need to build the following files:
+
+-rw-r--r--  1 olivier  staff  1729223 Nov  9 06:10 neodatis-odb-1.9.30.687-javadoc.jar
+-rw-r--r--  1 olivier  staff       33 Nov  9 06:10 neodatis-odb-1.9.30.687-javadoc.jar.md5
+-rw-r--r--  1 olivier  staff       41 Nov  9 06:10 neodatis-odb-1.9.30.687-javadoc.jar.sha1
+-rw-r--r--  1 olivier  staff  3698825 Nov  9 06:10 neodatis-odb-1.9.30.687-sources.jar
+-rw-r--r--  1 olivier  staff       33 Nov  9 06:10 neodatis-odb-1.9.30.687-sources.jar.md5
+-rw-r--r--  1 olivier  staff       41 Nov  9 06:10 neodatis-odb-1.9.30.687-sources.jar.sha1
+-rw-r--r--  1 olivier  staff   794250 Nov  9 06:10 neodatis-odb-1.9.30.687.jar
+-rw-r--r--  1 olivier  staff       33 Nov  9 06:10 neodatis-odb-1.9.30.687.jar.md5
+-rw-r--r--  1 olivier  staff       41 Nov  9 06:10 neodatis-odb-1.9.30.687.jar.sha1
+-rw-r--r--  1 olivier  staff      626 Nov  9 06:10 neodatis-odb-1.9.30.687.pom
+-rw-r--r--  1 olivier  staff       33 Nov  9 06:10 neodatis-odb-1.9.30.687.pom.md5
+-rw-r--r--  1 olivier  staff       41 Nov  9 06:10 neodatis-odb-1.9.30.687.pom.sha1
+
+
+use the ant task buildMavenBundle.
+
+Then upload files (not the bundle but each file) to /home/groups/n/ne/neodatis-odb/htdocs/m2-repo/org/neodatis/odb/neodatis-odb/1.9.30.687
+Then Maven Rep will take files to the central rep

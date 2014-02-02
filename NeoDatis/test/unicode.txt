@@ -1,0 +1,16 @@
+Ž \u00E9
+ \u00E7
+‡ \u00E1
+‹ \u00E3
+õ \u00F5
+í \u00ED
+ó \u00F3
+â \u00E2
+‹ \u00E7\u00E3
+çõ \u00E7\u00F5
+ê \u00EA
+ú \u00FA
+Ú \u00DA
+
+http://www.utf8-chartable.de/
+

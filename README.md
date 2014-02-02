@@ -1,7 +1,7 @@
 NeoDatis
 ========
 
-Repository for NeoDatis http://neodatis.wikidot.com/
+No oficial repository for NeoDatis http://neodatis.wikidot.com/ 1.9.x branch
 
 NeoDatis ODB is a very simple Object Database that currently runs on the Java, .Net, Google Android, Groovy and Scala
 
